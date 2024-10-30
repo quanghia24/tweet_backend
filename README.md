@@ -1,5 +1,5 @@
 setup backend:
-- got into backend folder
+get into backend folder
 ```
 python3 -m venv .env
 source .env/bin/activate
